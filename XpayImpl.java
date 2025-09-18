@@ -1,4 +1,6 @@
+// Implementation of Xpay interface
 public class XpayImpl implements Xpay {
+    // Fields to store card details
     private String creditCardNo;
     private String customerName;
     private String cardExpMonth;
